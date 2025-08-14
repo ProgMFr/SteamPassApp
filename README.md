@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/ProgMFr/SteamPassApp/tree/main/contents/app_logo.png)
+![Logo](https://github.com/ProgMFr/SteamPassApp/raw/main/contents/app_logo.png)
 
 
 # SteamPass_
@@ -11,7 +11,7 @@ by dll injection steampass inject game license into steam client and enable fami
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ProgMFr/SteamPassApp/tree/main/contents/bg.jpg)
+![App Screenshot](https://github.com/ProgMFr/SteamPassApp/raw/main/contents/bg.jpg)
 
 
 ## Features
